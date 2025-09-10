@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** `Dhruv Bhatia`
-- **CCID:** `dbhatia2>`
+- **CCID:** `dbhatia2`
 
 ## References and Resources
 
